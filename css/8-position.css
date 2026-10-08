@@ -1,0 +1,31 @@
+.kotak {
+  width: 100px;
+  height: 100px;
+}
+.hijau {
+  background-color: green;
+}
+.merah {
+  background-color: red;
+}
+.biru {
+  background-color: blue;
+}
+
+.static {
+  position: static;
+  left: 10px;
+  top: 50px;
+}
+
+.relative {
+  position: relative;
+  left: 10px;
+  top: 50px;
+}
+
+.absolute {
+  position: absolute;
+  left: 80px;
+  top: 50px;
+}

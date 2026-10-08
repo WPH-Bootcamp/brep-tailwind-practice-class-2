@@ -1,0 +1,9 @@
+div {
+  width: 100%;
+  height: 50dvh;
+  background-color: red;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfZ9hOwyuzTn_hqCl7PWaPZbnrQ4Y-C1IpbD-PvYvt2CxgXPYkSD9PE8xF&s=10');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}

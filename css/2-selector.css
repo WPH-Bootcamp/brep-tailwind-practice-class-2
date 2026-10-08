@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+}
+
+.paragraph {
+  background-color: blue;
+  color: #fff;
+  padding: 10px;
+}
+
+#teks {
+  background-color: red;
+  color: white;
+  padding: 10px;
+}
+
+/* *{
+    color: red;
+} */
+
+div p {
+  color: green;
+}

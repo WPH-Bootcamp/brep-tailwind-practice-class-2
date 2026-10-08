@@ -1,0 +1,11 @@
+p {
+  background-color: red;
+  height: 50px;
+  display: none;
+}
+
+span {
+  background-color: green;
+  height: 50px;
+  display: inline-block;
+}
